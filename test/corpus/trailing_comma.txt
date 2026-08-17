@@ -1,0 +1,17 @@
+===============
+Trailing comma
+===============
+1,2,
+1,2
+
+
+---
+
+(csv
+  (row
+    (first)
+    (second)
+    (third))
+  (row
+    (first)
+    (second)))

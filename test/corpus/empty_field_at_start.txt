@@ -1,0 +1,13 @@
+====================
+Empty field at start
+====================
+,2,3
+
+
+---
+
+(csv
+  (row
+    (first)
+    (second)
+    (third)))

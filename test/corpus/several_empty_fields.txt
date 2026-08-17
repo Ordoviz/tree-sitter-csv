@@ -1,0 +1,20 @@
+====================
+Several empty fields
+====================
+1,,,,,,,,9,10
+
+
+---
+
+(csv
+  (row
+    (first)
+    (second)
+    (third)
+    (fourth)
+    (fifth)
+    (sixth)
+    (seventh)
+    (first)
+    (second)
+    (third)))
